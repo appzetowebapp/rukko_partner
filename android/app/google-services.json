@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "463389493822",
+    "project_id": "rukkooin-39480",
+    "storage_bucket": "rukkooin-39480.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463389493822:android:219513c2b5c8deb2965f6f",
+        "android_client_info": {
+          "package_name": "com.rukkoin.partner"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARcZ01JKx5rTbgnqkMgw2sFM6M2dDDLP0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463389493822:android:ba60d14c0ef2a087965f6f",
+        "android_client_info": {
+          "package_name": "com.rukkoin.user"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARcZ01JKx5rTbgnqkMgw2sFM6M2dDDLP0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
